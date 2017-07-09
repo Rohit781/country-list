@@ -1,0 +1,1521 @@
+[
+	{
+		"name": "Afghanistan",
+		"alsoKnownAs": "Afghanistan",
+		"code": "AF",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Albania",
+		"alsoKnownAs": "Albania",
+		"code": "AL",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Algeria",
+		"alsoKnownAs": "Algeria",
+		"code": "DZ",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "American Virgin Islands",
+		"alsoKnownAs": "VIRGIN ISLANDS (U.S.)",
+		"code": "VI",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Andorra",
+		"alsoKnownAs": "Andorra",
+		"code": "AD",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Angola",
+		"alsoKnownAs": "Angola",
+		"code": "AO",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Anguilla",
+		"alsoKnownAs": "Anguilla",
+		"code": "AI",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Antigua & Barbuda",
+		"alsoKnownAs": "ANTIGUA AND BARBUDA",
+		"code": "AG",
+		"sensitivity": "High",
+		"pn": "P3"
+	},
+	{
+		"name": "Argentina",
+		"alsoKnownAs": "Argentina",
+		"code": "AR",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Armenia",
+		"alsoKnownAs": "Armenia",
+		"code": "AM",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Aruba",
+		"alsoKnownAs": "Aruba",
+		"code": "AW",
+		"sensitivity": "Medium",
+		"pn": "P3"
+	},
+	{
+		"name": "Australia",
+		"alsoKnownAs": "Australia",
+		"code": "AU",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Austria",
+		"alsoKnownAs": "Austria",
+		"code": "AT",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Azerbaijan",
+		"alsoKnownAs": "Azerbaijan",
+		"code": "AZ",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Bahamas",
+		"alsoKnownAs": "Bahamas",
+		"code": "BS",
+		"sensitivity": "Medium",
+		"pn": "P3"
+	},
+	{
+		"name": "Bahrein",
+		"alsoKnownAs": "BAHRAIN",
+		"code": "BH",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Bangladesh",
+		"alsoKnownAs": "Bangladesh",
+		"code": "BD",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Barbados",
+		"alsoKnownAs": "Barbados",
+		"code": "BB",
+		"sensitivity": "Medium",
+		"pn": "P3"
+	},
+	{
+		"name": "Belarus",
+		"alsoKnownAs": "Belarus",
+		"code": "BY",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Belgium",
+		"alsoKnownAs": "Belgium",
+		"code": "BE",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Belize",
+		"alsoKnownAs": "Belize",
+		"code": "BZ",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Benin",
+		"alsoKnownAs": "Benin",
+		"code": "BJ",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Bermuda",
+		"alsoKnownAs": "Bermuda",
+		"code": "BM",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Bhutan",
+		"alsoKnownAs": "Bhutan",
+		"code": "BT",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Bolivia",
+		"alsoKnownAs": "BAHRAIN",
+		"code": "BH",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Bosnia-Herzegovina",
+		"alsoKnownAs": "BOSNIA AND HERZEGOVINA",
+		"code": "BA",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Botswana",
+		"alsoKnownAs": "Botswana",
+		"code": "BW",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Brazil",
+		"alsoKnownAs": "Brazil",
+		"code": "BR",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "British  Virgin Islands",
+		"alsoKnownAs": "VIRGIN ISLANDS (BRITISH)",
+		"code": "VG",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "Brunei Darussalam",
+		"alsoKnownAs": "Brunei Darussalam",
+		"code": "BN",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "Bulgaria",
+		"alsoKnownAs": "Bulgaria",
+		"code": "BG",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Burkina Faso",
+		"alsoKnownAs": "Burkina Faso",
+		"code": "BF",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Burundi",
+		"alsoKnownAs": "Burundi",
+		"code": "BI",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Cambodia",
+		"alsoKnownAs": "Cambodia",
+		"code": "KH",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Cameroon",
+		"alsoKnownAs": "Cameroon",
+		"code": "CM",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Canada",
+		"alsoKnownAs": "Canada",
+		"code": "CA",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Cape Verde",
+		"alsoKnownAs": "Cape Verde",
+		"code": "CV",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Cayman Islands",
+		"alsoKnownAs": "Cayman Islands",
+		"code": "KY",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Central African Republic",
+		"alsoKnownAs": "Central African Republic",
+		"code": "CF",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Chad",
+		"alsoKnownAs": "Chad",
+		"code": "TD",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Chile",
+		"alsoKnownAs": "Chile",
+		"code": "CL",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "China",
+		"alsoKnownAs": "China",
+		"code": "CN",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Colombia",
+		"alsoKnownAs": "Colombia",
+		"code": "CO",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Comoros",
+		"alsoKnownAs": "Comoros",
+		"code": "KM",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Congo Rep",
+		"alsoKnownAs": "CONGO",
+		"code": "CG",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Costa Rica",
+		"alsoKnownAs": "Costa Rica",
+		"code": "CR",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Crimea & Sevastopol",
+		"alsoKnownAs": "N/A - Has a code been determined for this territory? How should we address this? Just call it Crimea rather than assign a code? Are we still utilizing postal codes and askig the front end to collect it?",
+		"code": "#N/A",
+		"sensitivity": "Very High",
+		"pn": "MSC"
+	},
+	{
+		"name": "Croatia",
+		"alsoKnownAs": "Croatia",
+		"code": "HR",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Cuba",
+		"alsoKnownAs": "Cuba",
+		"code": "CU",
+		"sensitivity": "Very High",
+		"pn": "MSC"
+	},
+	{
+		"name": "Curacao",
+		"alsoKnownAs": "Curacao",
+		"code": "CW",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Cyprus",
+		"alsoKnownAs": "Cyprus",
+		"code": "CY",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "Czech Republic",
+		"alsoKnownAs": "Czech Republic",
+		"code": "CZ",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Dem. Rep. Congo",
+		"alsoKnownAs": "CONGO, THE DEMOCRATIC REPUBLIC OF",
+		"code": "CD",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Denmark",
+		"alsoKnownAs": "Denmark",
+		"code": "DK",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Djibouti",
+		"alsoKnownAs": "Djibouti",
+		"code": "DJ",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Dominica",
+		"alsoKnownAs": "Dominica",
+		"code": "DM",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Dominican Rep",
+		"alsoKnownAs": "DOMINICAN REPUBLIC",
+		"code": "DO",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Ecuador",
+		"alsoKnownAs": "Ecuador",
+		"code": "EC",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Egypt",
+		"alsoKnownAs": "Egypt",
+		"code": "EG",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "El Salvador",
+		"alsoKnownAs": "El Salvador",
+		"code": "SV",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Equatorial Guinea",
+		"alsoKnownAs": "Equatorial Guinea",
+		"code": "GQ",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Eritrea",
+		"alsoKnownAs": "Eritrea",
+		"code": "ER",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Estonia",
+		"alsoKnownAs": "Estonia",
+		"code": "EE",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Ethiopia",
+		"alsoKnownAs": "Ethiopia",
+		"code": "ET",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Fiji",
+		"alsoKnownAs": "Fiji",
+		"code": "FJ",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Finland",
+		"alsoKnownAs": "Finland",
+		"code": "FI",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "France",
+		"alsoKnownAs": "France",
+		"code": "FR",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Gabon",
+		"alsoKnownAs": "Gabon",
+		"code": "GA",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Gambia",
+		"alsoKnownAs": "Gambia",
+		"code": "GM",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Georgia",
+		"alsoKnownAs": "Georgia",
+		"code": "GE",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Germany",
+		"alsoKnownAs": "Germany",
+		"code": "DE",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Ghana",
+		"alsoKnownAs": "Ghana",
+		"code": "GH",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Gibraltar",
+		"alsoKnownAs": "Gibraltar",
+		"code": "GI",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Greece",
+		"alsoKnownAs": "Greece",
+		"code": "GR",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Grenada",
+		"alsoKnownAs": "Grenada",
+		"code": "GD",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Guatemala",
+		"alsoKnownAs": "Guatemala",
+		"code": "GT",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Guernsey",
+		"alsoKnownAs": "Guernsey",
+		"code": "GG",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Guinea",
+		"alsoKnownAs": "Guinea",
+		"code": "GN",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "Guinea-Bissau",
+		"alsoKnownAs": "Guinea-Bissau",
+		"code": "GW",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Guyana",
+		"alsoKnownAs": "Guyana",
+		"code": "GY",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Haiti",
+		"alsoKnownAs": "Haiti",
+		"code": "HT",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Honduras",
+		"alsoKnownAs": "Honduras",
+		"code": "HN",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Hong Kong",
+		"alsoKnownAs": "Hong Kong",
+		"code": "HK",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Hungary",
+		"alsoKnownAs": "Hungary",
+		"code": "HU",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Iceland",
+		"alsoKnownAs": "Iceland",
+		"code": "IS",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "India",
+		"alsoKnownAs": "India",
+		"code": "IN",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Indonesia",
+		"alsoKnownAs": "Indonesia",
+		"code": "ID",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Iran",
+		"alsoKnownAs": "IRAN, ISLAMIC REPUBLIC OF",
+		"code": "IR",
+		"sensitivity": "Very High",
+		"pn": "MSC"
+	},
+	{
+		"name": "Iraq",
+		"alsoKnownAs": "Iraq",
+		"code": "IQ",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Ireland",
+		"alsoKnownAs": "Ireland",
+		"code": "IE",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Isle of Man",
+		"alsoKnownAs": "Isle of Man",
+		"code": "IM",
+		"sensitivity": "Medium",
+		"pn": "P3"
+	},
+	{
+		"name": "Israel",
+		"alsoKnownAs": "Israel",
+		"code": "IL",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Italy",
+		"alsoKnownAs": "Italy",
+		"code": "IT",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Ivory Coast",
+		"alsoKnownAs": "COTE D'IVOIRE (IVORY COAST)",
+		"code": "CI",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "Jamaica",
+		"alsoKnownAs": "Jamaica",
+		"code": "JM",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Japan",
+		"alsoKnownAs": "Japan",
+		"code": "JP",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Jersey",
+		"alsoKnownAs": "Jersey",
+		"code": "JE",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Jordan",
+		"alsoKnownAs": "Jordan",
+		"code": "JO",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Kazakhstan",
+		"alsoKnownAs": "Kazakhstan",
+		"code": "KZ",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Kenya",
+		"alsoKnownAs": "Kenya",
+		"code": "KE",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Kiribati",
+		"alsoKnownAs": "Kiribati",
+		"code": "KI",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Kosovo",
+		"alsoKnownAs": "Kosovo",
+		"code": "XK",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "Kuwait",
+		"alsoKnownAs": "Kuwait",
+		"code": "KW",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Kyrgyzstan",
+		"alsoKnownAs": "Kyrgyzstan",
+		"code": "KG",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Laos",
+		"alsoKnownAs": "LAO PEOPLE'S DEMOCRATIC REPUBLIC",
+		"code": "LA",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Latvia",
+		"alsoKnownAs": "Latvia",
+		"code": "LV",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Lebanon",
+		"alsoKnownAs": "Lebanon",
+		"code": "LB",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Lesotho",
+		"alsoKnownAs": "Lesotho",
+		"code": "LS",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Liberia",
+		"alsoKnownAs": "Liberia",
+		"code": "LR",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Libya",
+		"alsoKnownAs": "Libya",
+		"code": "LY",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Liechtenstein",
+		"alsoKnownAs": "Liechtenstein",
+		"code": "LI",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Lithuania",
+		"alsoKnownAs": "Lithuania",
+		"code": "LT",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Luxembourg",
+		"alsoKnownAs": "Luxembourg",
+		"code": "LU",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Macau",
+		"alsoKnownAs": "MACAO",
+		"code": "MO",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Macedonia",
+		"alsoKnownAs": "MACEDONIA, THE FORMER YUGOLAV REPUBLIC OF",
+		"code": "MK",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Madagascar",
+		"alsoKnownAs": "Madagascar",
+		"code": "MG",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Malawi",
+		"alsoKnownAs": "Malawi",
+		"code": "MW",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Malaysia",
+		"alsoKnownAs": "Malaysia",
+		"code": "MY",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Maldives",
+		"alsoKnownAs": "Maldives",
+		"code": "MV",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Mali",
+		"alsoKnownAs": "Mali",
+		"code": "ML",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Malta",
+		"alsoKnownAs": "Malta",
+		"code": "MT",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Marshall  Islands",
+		"alsoKnownAs": "MARSHALL ISLANDS",
+		"code": "MH",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Mauritania",
+		"alsoKnownAs": "Mauritania",
+		"code": "MR",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Mauritius",
+		"alsoKnownAs": "Mauritius",
+		"code": "MU",
+		"sensitivity": "Medium",
+		"pn": "P3"
+	},
+	{
+		"name": "Mexico",
+		"alsoKnownAs": "Mexico",
+		"code": "MX",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "micronesia",
+		"alsoKnownAs": "MICRONESIA  FEDERATED STATES OF",
+		"code": "FM",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Moldova",
+		"alsoKnownAs": "MOLDOVA, REPUBIC OF",
+		"code": "MD",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Monaco",
+		"alsoKnownAs": "Monaco",
+		"code": "MC",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Mongolia",
+		"alsoKnownAs": "Mongolia",
+		"code": "MN",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Montenegro",
+		"alsoKnownAs": "MONTENEGRO (CRNA GORA)",
+		"code": "ME",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Montserrat",
+		"alsoKnownAs": "Montserrat",
+		"code": "MS",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Morocco",
+		"alsoKnownAs": "Morocco",
+		"code": "MA",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Mozambique",
+		"alsoKnownAs": "Mozambique",
+		"code": "MZ",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Myanmar",
+		"alsoKnownAs": "Myanmar",
+		"code": "MM",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Namibia",
+		"alsoKnownAs": "Namibia",
+		"code": "NA",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Nauru",
+		"alsoKnownAs": "Nauru",
+		"code": "NR",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Nepal",
+		"alsoKnownAs": "Nepal",
+		"code": "NP",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Netherlands",
+		"alsoKnownAs": "Netherlands",
+		"code": "NL",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "New Zealand",
+		"alsoKnownAs": "New Zealand",
+		"code": "NZ",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Nicaragua",
+		"alsoKnownAs": "Nicaragua",
+		"code": "NI",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Niger",
+		"alsoKnownAs": "Niger",
+		"code": "NE",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Nigeria",
+		"alsoKnownAs": "Nigeria",
+		"code": "NG",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Niue",
+		"alsoKnownAs": "Niue",
+		"code": "NU",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "North Korea",
+		"alsoKnownAs": "KOREA, DEMOCRATIC PEOPLE'S REPUBLIC OF",
+		"code": "KP",
+		"sensitivity": "Very High",
+		"pn": "MSC"
+	},
+	{
+		"name": "Northern Cyprus",
+		"alsoKnownAs": "??? (Cyprus already exists in list) - appears to be part of Cyprus but not its own country",
+		"code": "#N/A",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "Norway",
+		"alsoKnownAs": "Norway",
+		"code": "NO",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Oman",
+		"alsoKnownAs": "Oman",
+		"code": "OM",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Pakistan",
+		"alsoKnownAs": "Pakistan",
+		"code": "PK",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Palau",
+		"alsoKnownAs": "Palau",
+		"code": "PW",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Palestine",
+		"alsoKnownAs": "PALESTINE, STATE OF",
+		"code": "PS",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Panama",
+		"alsoKnownAs": "Panama",
+		"code": "PA",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Papua New Guinea",
+		"alsoKnownAs": "Papua New Guinea",
+		"code": "PG",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Paraguay",
+		"alsoKnownAs": "Paraguay",
+		"code": "PY",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Peru",
+		"alsoKnownAs": "Peru",
+		"code": "PE",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Philippines",
+		"alsoKnownAs": "Philippines",
+		"code": "PH",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Poland",
+		"alsoKnownAs": "Poland",
+		"code": "PL",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Portugal",
+		"alsoKnownAs": "Portugal",
+		"code": "PT",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Puerto Rico",
+		"alsoKnownAs": "Puerto Rico",
+		"code": "PR",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Qatar",
+		"alsoKnownAs": "Qatar",
+		"code": "QA",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Russia",
+		"alsoKnownAs": "RUSSIAN FEDERATION",
+		"code": "RU",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "Rwanda",
+		"alsoKnownAs": "Rwanda",
+		"code": "RW",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Saint Kitts",
+		"alsoKnownAs": "SAINT KITTS AND NEVIS",
+		"code": "KN",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Saint Lucia",
+		"alsoKnownAs": "Saint Lucia",
+		"code": "LC",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Saint Martin",
+		"alsoKnownAs": "??? (SAINT MARTIN (FRENCH) or SINT MAARTEN (DUTCH))",
+		"code": "#N/A",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Salomon Islands",
+		"alsoKnownAs": "SOLOMON ISLANDS",
+		"code": "SB",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Samoa",
+		"alsoKnownAs": "Samoa",
+		"code": "WS",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "San Marino",
+		"alsoKnownAs": "San Marino",
+		"code": "SM",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Sao Tome",
+		"alsoKnownAs": "SAO TOME AND PRINCIPE",
+		"code": "ST",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Saudi Arabia",
+		"alsoKnownAs": "Saudi Arabia",
+		"code": "SA",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Senegal",
+		"alsoKnownAs": "Senegal",
+		"code": "SN",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Serbia",
+		"alsoKnownAs": "Serbia",
+		"code": "RS",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Seychelles",
+		"alsoKnownAs": "Seychelles",
+		"code": "SC",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Sierra Leone",
+		"alsoKnownAs": "SIERRE LEONE",
+		"code": "SL",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Singapore",
+		"alsoKnownAs": "Singapore",
+		"code": "SG",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Slovak Republic",
+		"alsoKnownAs": "SLOVAKIA?",
+		"code": "#N/A",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Slovenia",
+		"alsoKnownAs": "Slovenia",
+		"code": "SI",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Somalia",
+		"alsoKnownAs": "Somalia",
+		"code": "SO",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "South Africa",
+		"alsoKnownAs": "South Africa",
+		"code": "ZA",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "South Korea",
+		"alsoKnownAs": "KOREA, REPUBLIC OF",
+		"code": "KR",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "South Sudan",
+		"alsoKnownAs": "South Sudan",
+		"code": "SS",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Spain",
+		"alsoKnownAs": "Spain",
+		"code": "ES",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Sri Lanka",
+		"alsoKnownAs": "Sri Lanka",
+		"code": "LK",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "St Vincent and G",
+		"alsoKnownAs": "SAINT VINCENT AND GRENADINES",
+		"code": "VC",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Sudan",
+		"alsoKnownAs": "Sudan",
+		"code": "SD",
+		"sensitivity": "Very High",
+		"pn": "MSC"
+	},
+	{
+		"name": "Suriname",
+		"alsoKnownAs": "Suriname",
+		"code": "SR",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Swaziland",
+		"alsoKnownAs": "SWAZILAND",
+		"code": "SZ",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Sweden",
+		"alsoKnownAs": "Sweden",
+		"code": "SE",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Switzerland",
+		"alsoKnownAs": "Switzerland",
+		"code": "CH",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Syria",
+		"alsoKnownAs": "SYRIA ARAB REPUBLIC",
+		"code": "SY",
+		"sensitivity": "Very High",
+		"pn": "MSC"
+	},
+	{
+		"name": "Taiwan",
+		"alsoKnownAs": "TAIWAN (PROVINCE OF CHINA)",
+		"code": "TW",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "Tajikistan",
+		"alsoKnownAs": "Tajikistan",
+		"code": "TJ",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Tanzania",
+		"alsoKnownAs": "TANZANIA, UNITED REPUBLIC OF",
+		"code": "TZ",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Thailand",
+		"alsoKnownAs": "Thailand",
+		"code": "TH",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Timor-Liste",
+		"alsoKnownAs": "TIMOR-LESTE",
+		"code": "TL",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Togo",
+		"alsoKnownAs": "Togo",
+		"code": "TG",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Tonga",
+		"alsoKnownAs": "Tonga",
+		"code": "TO",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Trinidad and Tobago",
+		"alsoKnownAs": "Trinidad and Tobago",
+		"code": "TT",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Tunisia",
+		"alsoKnownAs": "Tunisia",
+		"code": "TN",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Turkey",
+		"alsoKnownAs": "Turkey",
+		"code": "TR",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "Turkmenistan",
+		"alsoKnownAs": "Turkmenistan",
+		"code": "TM",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Turks and Caicos",
+		"alsoKnownAs": "TURKS AND CAICOS ISLANDS",
+		"code": "TC",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Tuvalu",
+		"alsoKnownAs": "Tuvalu",
+		"code": "TV",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Uganda",
+		"alsoKnownAs": "Uganda",
+		"code": "UG",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Ukraine",
+		"alsoKnownAs": "Ukraine",
+		"code": "UA",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "United Arab Emirates",
+		"alsoKnownAs": "United Arab Emirates",
+		"code": "AE",
+		"sensitivity": "Medium",
+		"pn": "Pn"
+	},
+	{
+		"name": "United Kingdom",
+		"alsoKnownAs": "United Kingdom",
+		"code": "GB",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "United States of America",
+		"alsoKnownAs": "UNITED STATES",
+		"code": "US",
+		"sensitivity": "Low",
+		"pn": "Pn"
+	},
+	{
+		"name": "Uruguay",
+		"alsoKnownAs": "Uruguay",
+		"code": "UY",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Uzbekistan",
+		"alsoKnownAs": "Uzbekistan",
+		"code": "UZ",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Vanuatu",
+		"alsoKnownAs": "Vanuatu",
+		"code": "VU",
+		"sensitivity": "Very High",
+		"pn": "P2"
+	},
+	{
+		"name": "Vatican",
+		"alsoKnownAs": "HOLY SEE (VATICAN CITY)",
+		"code": "VA",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Venezuela",
+		"alsoKnownAs": "VENEZUELA, BOLIVARIAN REPUBLIC OF",
+		"code": "VE",
+		"sensitivity": "Very High",
+		"pn": "P1"
+	},
+	{
+		"name": "Vietnam",
+		"alsoKnownAs": "VIET NAM",
+		"code": "VN",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Western Sahara",
+		"alsoKnownAs": "Western Sahara",
+		"code": "EH",
+		"sensitivity": "Very High",
+		"pn": "Pn"
+	},
+	{
+		"name": "Yemen",
+		"alsoKnownAs": "Yemen",
+		"code": "YE",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	},
+	{
+		"name": "Zambia",
+		"alsoKnownAs": "Zambia",
+		"code": "ZM",
+		"sensitivity": "High",
+		"pn": "P2"
+	},
+	{
+		"name": "Zimbabwe",
+		"alsoKnownAs": "Zimbabwe",
+		"code": "ZW",
+		"sensitivity": "Very High",
+		"pn": "P0"
+	}
+]
